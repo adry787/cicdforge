@@ -1,0 +1,5 @@
+stages:
+  - name: test
+    commands: [echo "Testing..."]
+  - name: build
+    commands: [echo "Building..."]
